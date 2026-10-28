@@ -85,13 +85,13 @@ Buka tautan berikut lewat browser HP atau laptop
 - Pembayaran dan pengambilan barang diatur langsung antara pembeli dan penjual lewat WhatsApp.
 
 ### Struktur Repositori
-
+```
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 └── AI_LOGBOOK.md
-
+```
 ---
 
 ## e. Identitas Developer atau Pengembang
