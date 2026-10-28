@@ -57,9 +57,10 @@ Disekolah kejuruan saya, banyak siswa kejuruan selain saya praktik membuat baran
 > Kenapa navbar saya masih terpendam dan tombol kembali tidak bisa dipencet jika tertutup navbar buat agar dia mengukuti navbar dan tidak tertutup.
 
 ### Penyusaian dan perbaikan sendiri
-**Bagian | Saran AI | Perbaikan sendiri**
-Rencana awal | saran dari claude penjual tidak harus daftar atau login tanpa password | kita putuskan untuk menggunakan login dan daftar dengan login.
-Beberapa tampilan | dari AI kami mendapatkan style yang kurang cocok | kita putuskan untuk menggunakan style yang seusai dari keinginan.
+| Bagian | Saran AI | Perbaikan sendiri |
+| --- | --- | --- |
+| Rencana awal | saran dari claude penjual tidak harus daftar atau login tanpa password | kita putuskan untuk menggunakan login dan daftar dengan login. |
+| Beberapa tampilan | dari AI kami mendapatkan style yang kurang cocok | kita putuskan untuk menggunakan style yang seusai dari keinginan. |
 
 ## d. Panduan Penggunaan
 
