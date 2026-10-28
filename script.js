@@ -479,7 +479,7 @@ function vLogin() {
   return `<div class="auth">${authSide}${authTop('login')}
   <form class="glass box" data-f="login" novalidate>
     <h1>Masuk Penjual</h1>
-    ${fldi('wa', 'Nomor WhatsApp', 'tel', 'phone', '', 'placeholder="08xx" autocomplete="tel" inputmode="tel"')}
+    ${fldi('wa', 'Nomor WhatsApp', 'tel', 'phone', '', 'placeholder="08xxxxxxxxxx" autocomplete="tel" inputmode="tel"')}
     ${fldi('password', 'Password', 'password', 'lock', '', 'placeholder="Password kamu" autocomplete="current-password"')}
     <p class="err" id="err"></p>
     <button class="btn y">Masuk</button>
@@ -497,7 +497,7 @@ function vDaftar() {
     ${fldi('nama', 'Nama', 'text', 'user', '', 'autocomplete="name"')}
     ${fldi('kelas', 'Kelas', 'text', 'graduation-cap', '', 'placeholder="XI SIJA"')}
     <h3 class="sec full">Kontak &amp; toko</h3>
-    ${fldi('wa', 'Nomor WhatsApp', 'tel', 'phone', '', 'placeholder="08xx" inputmode="tel"')}
+    ${fldi('wa', 'Nomor WhatsApp', 'tel', 'phone', '', 'placeholder="08xxxxxxxxx" inputmode="tel"')}
     ${fldi('toko', 'Nama toko/kelompok', 'text', 'store')}
     <label class="full">Deskripsi singkat<textarea class="in" name="deskripsi"></textarea></label>
     <label class="full">Foto profil/logo (opsional)<input class="in" type="file" accept="image/*" data-file="profil"></label>
