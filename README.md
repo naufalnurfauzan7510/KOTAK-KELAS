@@ -28,7 +28,7 @@ Disekolah kejuruan saya, banyak siswa kejuruan selain saya praktik membuat baran
 
 ## b. Teknologi yang digunakan
 
-| **Katergori | Teknologi** |
+| Katergori | Teknologi |
 | Bahasa | HTML, CSS, dan JavaScript (tanpa framework) |
 | Ikon | Lucide Icons (https://github.com/lucide-icons/lucide) |
 | Font | Google Fonts (Plus Jakarta Sans) |
