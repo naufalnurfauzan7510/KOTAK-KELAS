@@ -28,15 +28,15 @@ Disekolah kejuruan saya, banyak siswa kejuruan selain saya praktik membuat baran
 
 ## b. Teknologi yang digunakan
 
-**Katergori dan Teknologi**
-Bahasa | HTML, CSS, dan JavaScript (tanpa framework)
-Ikon | Lucide Icons (https://github.com/lucide-icons/lucide)
-Font | Google Fonts (Plus Jakarta Sans)
-Database | localStorage 
-Keamanan password | Web Crypto API (SHA-256)
-Integrasi pesan | WhatsApp wa.me link
-Platform publikasi | Github Pages
-Editor kode | Visual Studio Code
+| **Katergori | Teknologi** |
+| Bahasa | HTML, CSS, dan JavaScript (tanpa framework) |
+| Ikon | Lucide Icons (https://github.com/lucide-icons/lucide) |
+| Font | Google Fonts (Plus Jakarta Sans) |
+| Database | localStorage |
+| Keamanan password | Web Crypto API (SHA-256) |
+| Integrasi pesan | WhatsApp wa.me link |
+| Platform publikasi | Github Pages |
+| Editor kode | Visual Studio Code |
 
 **Desain:** dengan gaya Liquid (glassmorphism). Palet warna menggunakan Warna `#f9e208` dan `#0234ad`. 
 
