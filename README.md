@@ -28,7 +28,7 @@ Disekolah kejuruan saya, banyak siswa kejuruan selain saya praktik membuat baran
 
 ## b. Teknologi yang digunakan
 
-| Katergori | Teknologi |
+| | Katergori | Teknologi |
 | --- | --- | --- |
 | Bahasa | HTML, CSS, dan JavaScript (tanpa framework) |
 | Ikon | Lucide Icons (https://github.com/lucide-icons/lucide) |
@@ -96,7 +96,7 @@ Buka tautan berikut lewat browser HP atau laptop
 ---
 
 ## e. Identitas Developer atau Pengembang
-| Pengembang 1 | Pengembang 2 |
+| | Pengembang 1 | Pengembang 2 |
 | --- | --- | --- |
 | **Nama lengkap** | Naufal Nur Fauzan | Haris Suyanto |
 | **Kelas** | XI | XI |
